@@ -1,3 +1,14 @@
+/*
+This code creates a signup page
+---------------------------------------------------------------------------------------------------------------------------------------
+Users enter a unique username and password to create an account, which then can be used to sign in to their account 
+The information entered is saved into mysql database
+
+* All users signing up this way will automatically get the user role, the admin role has to be manually changed in the database
+---------------------------------------------------------------------------------------------------------------------------------------
+after signing up successfully, user can click the "login" button to be directed to the login page
+/*
+
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
