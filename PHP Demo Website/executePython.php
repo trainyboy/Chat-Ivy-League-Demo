@@ -1,3 +1,5 @@
+//code to execute Python Script
+
 <?php
 // Command to execute Python script
 $command = escapeshellcmd('/Applications/XAMPP/xamppfiles/cgi-bin/gpt.py');
