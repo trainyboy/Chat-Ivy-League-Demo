@@ -1,5 +1,6 @@
-<?php
+ //Create connection with mysql database
 
+<?php
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
