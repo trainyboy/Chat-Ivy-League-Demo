@@ -1,3 +1,5 @@
+/*
+Code to logout of an account
 <?php
 
 session_start();
