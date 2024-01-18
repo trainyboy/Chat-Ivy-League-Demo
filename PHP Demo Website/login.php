@@ -1,3 +1,10 @@
+/*
+Displays page to log in to the website
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Once the users enter and submit credentials that match the ones stored in the database, they will be redirected to either the admin_index page or the index page depending on their role 
+*/ 
+
+
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
