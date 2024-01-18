@@ -1,3 +1,14 @@
+/*
+Below are funtions used in the rest of the page developing code
+---------------------------------------------------------------------------------
+check_login:
+check if an account is already loged in 
+---------------------------------------------------------------------------------
+random_num
+generate a random 5 digit+ integer 
+The integer serves as the user's user ID
+*/
+
 <?php
 
 function check_login($con)
