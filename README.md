@@ -33,6 +33,6 @@
 ## Future Modicications
 
 ### Adding css to code
-  ### >Making login and signup page the same
+  ### > Making login and signup page the same
 ### - Hashing password saved into MYSQL
 ### - Make website display a download button to download the pdf instead of autmatically downaloding the pdf to users device
