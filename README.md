@@ -4,23 +4,23 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## USERS
 
-### - Users can create an account and login.
-### - They have excess to a google form after login.
-### - Once filled out, the users can click the done button at the bottom of the page which automatically download ChatGPT's response to the user's device
+### - Users can create an account and log in.
+### - They have access to a Google form after login.
+### - Once filled out, the users can click the done button at the bottom of the page which automatically downloads ChatGPT's response to the user's device
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## ADMIN
 
-### - With an admin account, one can excess the entire google form
+### - With an admin account, one can excess the entire Google form
 ### *Only be created by modifying role in MYSQL*
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-# Fill in with actual creditials
+# Fill in with actual credentials
 
-### - Google form: HTML link of the google form (Make sure the form is pubished)
-### - Google sheet (HTML): HTML link of the google sheet (Make sure the form is pubished)
-### - Google sheet (CSV): link of the google in CSV format (Make sure the form is published)
+### - Google form: HTML link of the Google form (Make sure the form is published)
+### - Google sheet (HTML): HTML link of the Google sheet (Make sure the form is published)
+### - Google sheet (CSV): link of the Google in CSV format (Make sure the form is published)
 ### - ChatGPT API Key: Go to Playground OpenAI -> API Key
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-##MYSQL Setup
+## MYSQL Setup
 
 ### - id -> BIGINT -> AUTO INCREMENT -> Primary Key
 ### - user_id -> BIGINT
@@ -32,7 +32,7 @@
 
 ## Future Modicications
 
-### Adding css to code
-  ### > Making login and signup page the same
+### Adding CSS to code
+  ### > Making login and signup pages the same
 ### - Hashing password saved into MYSQL
-### - Make website display a download button to download the pdf instead of autmatically downaloding the pdf to users device
+### - Make the website display a download button to download the pdf instead of automatically downloading the pdf to user's device
