@@ -20,7 +20,7 @@ session_start();
 	<br>
 	Hello, <?php echo $user_data['user_name'];?>
 	
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdV1eXOkXKwB640f1lj--Irqol9Fc22lUqIiZraxXgGu2D3pA/viewform?embedded=true" width="640" height="3039" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+	<iframe src="Google from HTML link" width="640" height="3039" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 	<button id="executePython">Done</button>
 	<script>
 document.getElementById('executePython').addEventListener('click', function() {
